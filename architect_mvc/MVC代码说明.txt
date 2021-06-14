@@ -4,6 +4,8 @@ MVC架构：变现层分离
 
 MVC的模式：被动模式和主动模式
 
+
+
 被动模式：被动模式中的被动指的是Model（模型层）的被动
 在被动模式中,Model不会讲它的变化通知给View进行更新，而是有Controller通知View关于Model的变化进行更新；
 而且只有Controller可以对Model进行更新。

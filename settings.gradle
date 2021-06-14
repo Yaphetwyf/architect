@@ -1,2 +1,5 @@
 rootProject.name = "Architect"
 include ':app'
+include ':architect_mvc'
+include ':mvc_active'
+include ':mvp'
